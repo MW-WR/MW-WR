@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MW-WR
+- 👋 Hi, I’m Mac
 - 👀 I’m interested in basketball, videogames, movies, 3D
 - 🌱 I’m currently learning different java frameworks
 - 💞️ I’m looking to collaborate on coding
